@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.main {
+    width: 100%;
+    height: auto;
+    display: inline;
+
+}
+
+.html,
+.css,
+.js {
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 15px;
+}
+
+
+p,
+.box {
+    font-size: 20px;
+    text-align: center;
+    background-color: lightpink;
+    border: 1px solid gray;
+    width: 100%;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+#menu {
+    display: none;
+}
+
+#menu2 {
+    display: none;
+}
+
+#menu3 {
+    display: none;
+}
+
+a {
+    display: block;
+    margin-top: 15px;
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    color: red;
+    background-color: aqua;
+}
+
+.baslik {
+    color: blue;
+    font-weight: bold;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.baslik:hover {
+    color: red;
+    font-weight: bold;
+    cursor: grab;
+}
