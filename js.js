@@ -29,4 +29,5 @@ function ac_kapa3() {
         document.getElementById('menu3').style.display = 'none';
         isOpen = false;
     }
+    
 }
